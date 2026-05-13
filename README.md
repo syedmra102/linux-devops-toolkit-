@@ -85,23 +85,24 @@ logs/
 
 backup/
 
-how to run
+---
+# how to run
 clone repository
 git clone https://github.com/yourusername/linux-devops-toolkit.git
 
-move into project
+# move into project
 cd linux-devops-toolkit
 
-give execute permissions
+# give execute permissions
 chmod +x main.sh
 chmod +x scripts/*.sh
 
-run project
+# run project
 ./main.sh
 
-screenshots
+# screenshots
 
-future improvements
+# future improvements
 aws cli integration
 docker monitoring
 terraform automation
@@ -110,13 +111,10 @@ email notification improvements
 logrotate integration
 kubernetes monitoring
 
-author
+# author
 imran
 
-github:
+# github:
 
 
 
-how to run
-clone repository
-git clone https://github.com/yourusername/linux-devops-toolkit.git
