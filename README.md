@@ -88,32 +88,40 @@ backup/
 
 ---
 # how to run
-clone repository
-git clone https://github.com/yourusername/linux-devops-toolkit.git
+-clone repository
+
+-git clone https://github.com/yourusername/linux-devops-toolkit.git
 
 # move into project
-cd linux-devops-toolkit
+-cd linux-devops-toolkit
 
 # give execute permissions
-chmod +x main.sh
-chmod +x scripts/*.sh
+-chmod +x main.sh
+
+-chmod +x scripts/*.sh
 
 # run project
-./main.sh
+-./main.sh
 
 # screenshots
 
 # future improvements
-aws cli integration
-docker monitoring
-terraform automation
-slack alerts
-email notification improvements
-logrotate integration
-kubernetes monitoring
+-aws cli integration
+
+-docker monitoring
+
+-terraform automation
+
+-slack alerts
+
+-email notification improvements
+
+-logrotate integration
+
+-kubernetes monitoring
 
 # author
-imran
+-imran
 
 # github:
 
